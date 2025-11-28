@@ -25,12 +25,10 @@ LeetMetric is a clean and interactive web application that displays your LeetCod
 ---
 
 ## 📁 Project Structure
-
-LeetMetric/
-│── index.html # UI layout
-│── style.css # Theme + styles
-│── script.js # Functional logic + GraphQL fetch
-│── README.md # Documentation
+**index.html** # UI layout
+**style.css** # Theme + styles
+**script.js** # Functional logic + GraphQL fetch
+**README.md** # Documentation
 
 
 ---
@@ -69,3 +67,4 @@ This project is **open-source** and free for educational and personal use.
 ---
 
 ### ⭐ If you like this project, consider giving the repo a star!
+
